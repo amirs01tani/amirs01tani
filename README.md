@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirs01tani
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on betterments of people's lives
+- 🌱 I’m a costant learner 
+- 💞️ I’m looking to collaborate on people's lives betterment
 - 📫 How to reach me ...
 
 <!---
