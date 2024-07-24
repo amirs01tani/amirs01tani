@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirs01tani
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning SwiftUI
-- 💞️ I’m looking to collaborate on Sports
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on betterments on people lives
 - 📫 How to reach me ...
 
 <!---
