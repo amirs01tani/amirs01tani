@@ -1,6 +1,6 @@
 # Hi, I'm Amir 👋
 
-### Senior iOS Engineer
+### Senior iOS Engineer | Swift | UIKit | SwiftUI | 10+ Years
 
 iOS engineer with 10+ years of experience building and maintaining production iOS applications.
 
